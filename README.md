@@ -37,13 +37,13 @@ The project is structured as follows:
 
 Sales-Performance-Dashboard/ 
 ├── data/ 
-    │ └── cleaned_superstore_sales_data.csv # Cleaned dataset 
+│ └── cleaned_superstore_sales_data.csv      # Cleaned dataset 
 ├── scripts/ 
-    │ └── data_preprocessing.py # Python script for data cleaning 
+│ └── data_preprocessing.py                  # Python script for data cleaning 
 ├── visuals/ 
-    │ └── dashboard_screenshot_1.png # Screenshot of the dashboard 
-    │ └── dashboard_screenshot_2.png # Additional screenshot 
-├── Sales_Performance_Dashboard.pbix # Power BI dashboard file 
+│ └── dashboard_screenshot_1.png             # Screenshot of the dashboard 
+│ └── dashboard_screenshot_2.png             # Additional screenshot 
+├── Sales_Performance_Dashboard.pbix         # Power BI dashboard file 
 ├── README.md # Project documentation
 
 
