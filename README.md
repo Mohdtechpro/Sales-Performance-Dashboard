@@ -35,18 +35,15 @@ The dashboard includes key performance metrics, sales trends, and visual insight
 ## Files in Repository
 The project is structured as follows:
 
-Sales-Performance-Dashboard/ 
-├── data/ 
-│ └── cleaned_superstore_sales_data.csv      # Cleaned dataset 
-├── scripts/ 
-│ └── data_preprocessing.py                  # Python script for data cleaning 
-├── visuals/ 
-│ └── dashboard_screenshot_1.png             # Screenshot of the dashboard 
-│ └── dashboard_screenshot_2.png             # Additional screenshot 
-├── Sales_Performance_Dashboard.pbix         # Power BI dashboard file 
-├── README.md # Project documentation
-
-
+- **data/**
+  - `cleaned_superstore_sales_data.csv`: Cleaned dataset.
+- **scripts/**
+  - `data_preprocessing.py`: Python script for data cleaning.
+- **visuals/**
+  - `dashboard_screenshot_1.png`: Screenshot of the dashboard.
+  - `dashboard_screenshot_2.png`: Additional screenshot.
+- **Sales_Performance_Dashboard.pbix**: Power BI dashboard file.
+- **README.md**: Project documentation.
 
 ---
 
